@@ -32,8 +32,10 @@
                  sh '''
                     curl -f -v -u admin:admin --upload-file user.zip http://172.31.20.130:8081/repository/user/user.zip
                  '''
+
               }
            }
+
 
 
     }
