@@ -1,8 +1,8 @@
-@Library('avk') _
+@Library('roboshop') _
 
-avk(
+roboshop(
     
-     COMPONENT      :  'user',
+     COMPONENT      :   'user',
      PROJECT_NAME   :   'roboshop',
      SLAVE_LABEL    :    'NODEJS',
      APP_TYPE       :    'NODEJS'
